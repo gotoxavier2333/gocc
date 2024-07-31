@@ -2,6 +2,7 @@ package lexer
 
 import "gotoxavier2333.com/monkey/token"
 
+// Lexer default
 type Lexer struct {
 	input        string
 	position     int
